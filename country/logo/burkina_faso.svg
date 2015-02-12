@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38pt" height="25pt" viewBox="0 0 38 25" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="38" height="25" style="fill:rgb(0%,61.960784%,28.627451%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(93.72549%,16.862745%,17.647059%);fill-opacity:1;" d="M 0 0 L 38 0 L 38 12.5 L 0 12.5 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 19 8.332031 L 17.695312 12.296875 L 19.703125 12.941406 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 19 8.332031 L 20.304688 12.296875 L 18.296875 12.941406 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 23.015625 11.210938 L 18.792969 11.210938 L 18.792969 13.296875 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 23.015625 11.210938 L 19.601562 13.660156 L 18.359375 11.976562 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 21.480469 15.871094 L 20.175781 11.90625 L 18.167969 12.550781 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 21.480469 15.871094 L 18.066406 13.421875 L 19.308594 11.738281 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 16.519531 15.871094 L 19.933594 13.421875 L 18.691406 11.738281 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 16.519531 15.871094 L 17.824219 11.90625 L 19.832031 12.550781 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 14.984375 11.210938 L 18.398438 13.660156 L 19.640625 11.976562 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(98.823529%,81.960784%,8.627451%);fill-opacity:1;" d="M 14.984375 11.210938 L 19.207031 11.210938 L 19.207031 13.296875 "/>
+</g>
+</svg>
